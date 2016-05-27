@@ -19,7 +19,7 @@ api = "EAACEdEose0cBAOKn6UfcG1LvT99iZCnHWUlP5KZCyEb1N8UwVbrTOebM6UeLbwUZATgDED2P
 
 graph = GraphAPI(api)
 
-message = '''
+message = 'Thanks for joining'
 
 
 Add all your contents to be posted to facebook groups here
@@ -33,7 +33,7 @@ Add all your contents to be posted to facebook groups here
 # Find the ids of your desired groups from http://lookup-id.com/  
 # and add this in this array groups
 
-groups = [ 'groupid1', 'groupid2', 'groupid3']
+groups = [ '543897769110125', 'groupid2', 'groupid3']
 
 
 
