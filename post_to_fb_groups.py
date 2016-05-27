@@ -9,7 +9,7 @@ from facepy import GraphAPI
 # get api from here  https://developers.facebook.com/tools/explorer
 
 
-api = "EAACEdEose0cBAOKn6UfcG1LvT99iZCnHWUlP5KZCyEb1N8UwVbrTOebM6UeLbwUZATgDED2PZCyB5tuF2BKyCgMILrx98Hym1gXUdgRIfscloqwSTdTUeaZAv1p45G0JaWCxlYahRIsll2FbjST1orPA5PHnpKJ4hypJW4toZAaQZDZD"
+api = "EAACEdEose0cBAI4mvm8ZCpa2Ahid1tg0OqjJFSu1AlLfb0ZCDJvkFwQZCgo1YNyXR9N3bmUDLFMC5gZBZChYKKsTttVQ3QiVBTTyOP1XDAnRW5YsYCMKmysNUVrjwNB30l2lGdOKOxCrolY8VpHZA1mTxjOdKR4ze22ro4vUWfOQZDZD"
 
 
 
