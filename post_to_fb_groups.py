@@ -19,10 +19,10 @@ api = "EAACEdEose0cBAOKn6UfcG1LvT99iZCnHWUlP5KZCyEb1N8UwVbrTOebM6UeLbwUZATgDED2P
 
 graph = GraphAPI(api)
 
-message = 'Thanks for joining'
+message = '''Thanks for joining
 
 
-Add all your contents to be posted to facebook groups here
+
 
 
 
